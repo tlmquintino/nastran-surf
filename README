@@ -1,0 +1,6 @@
+1. Install
+
+g++ -I /path/to/boost -L /path/to/boost -l program_options nastran-surf.cxx -o nastran-surf
+
+
+
